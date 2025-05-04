@@ -77,34 +77,37 @@ You can access the application using the following demo account:
 
 ## 📸 Screenshots
 
-### Login Page
-
-![Wild Oasis Login]()
-
 ### Dashboard
 
-![Dashboard]()
-![Dashboard Statistics]()
+![Dashboard](/public/screenshots/dashboard.png)
 
 ### Light Theme Preview
 
-![Light Theme]()
+![Light Theme](/public/screenshots/light.png)
+
+### Login Page
+
+![Wild Oasis Login](/public/screenshots/login.png)
 
 ### Bookings View
 
-![Bookings]()
+![Bookings](/public/screenshots/bookings.png)
+
+### Check In Booking
+
+![Bookings](/public/screenshots/checkin.png)
 
 ### Cabins Management
 
-![Cabins]()
+![Cabins](/public/screenshots/cabins.png)
 
 ### User Profile
 
-![User Profile]()
+![User Profile](/public/screenshots/profile.png)
 
 ### Settings Page
 
-![Settings]()
+![Settings](/public/screenshots/settings.png)
 
 ## 💻 Technologies Used
 
